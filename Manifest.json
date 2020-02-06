@@ -1,10 +1,10 @@
 {
   "name": "Ports Expanded",
-  "version": "0.7.4",
+  "version": "0.7.6",
   "description": "This mod hopes to recreate the occupation of Germany from 1939-1944 and represent Axis Control over the course of the war. Ports now change ownership to appropriate county and airfields become active as the war progresses. \r\n\r\nAdds an additional 20+ ports around the Atlantic Theater. Expanded Convoys and Shipping Lanes Mod adds shipping lanes and convoys to all of the ports. \r\n\r\nFeatures:\r\nAdds additional Minefields in the English Channel, North Sea, and Bergen. \r\nAdds Additional AAA positions to Fortified Ports \r\nTemp: Added an additional campaign, U-30 starting in 1939.9.3 to experience the expansion of German occupation throughout Europe. This will be a separate mod in the future \r\n\r\nExpect bugs. \r\n\r\n Port ownership transitions may not all be correct or present, there seems to be issues loading values when starting campaigns in dates after 1940, causing some events to not load.\r\n Added Ports utilizes pre-existing Port assets, this allows actual Ports to appear rather than placeholder ports. This is the best I can do for the moment without building custom assets",
   "author": "Link",
   "minGameVersion": "125",
-  "maxGameVersion": "125",
+  "maxGameVersion": "126P11",
   "assemblyName": null,
   "permissions": [],
   "steamFileId": 1932294137
